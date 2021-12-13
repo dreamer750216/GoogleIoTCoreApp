@@ -20,3 +20,5 @@ This repo provides software software to run on and setup the Pi.
 
 1. Clone this repo to a folder called `bpm_run` in the home folder of your pi, so that you have `/home/pi/bpm_run/GoogleIoTCoreApp'
 2. 
+## update
+*"{\\"bpm\\" : %d,\\"temperature\\" : %d,\\"timestamp\\" : %ld}", MIN*TEMP + rand() % 10, MIN_TEMP + rand() % 10, now);
